@@ -1,7 +1,7 @@
 ## Merhabalar! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - Kendimden sizlere kısaca bahsedeyim. Ben Taha nâmı değer [izexlesh](https://www.youtube.com/c/izexlesh) her zaman yeni birşeyler öğrenmeye çalışırım,
-ve yaklaşık 7 aydır **Discord** botları yapmaktayım daha yeni yeni **AOİ.JS** botlarıda yapmaya başlamış durumdayım. Projelerime göz atmayı unutmayınız!!
+ve yaklaşık 7 aydır **Discord** botları yapmaktayım daha yeni yeni **AOİ.JS** botlarıda yapmaya başlamış durumdayım, yakın süre içerisinde **CSS** ve **HTML** öğrenmeyide planlıyorum. Projelerime göz atmayı unutmayınız!!
 
 <img src="https://komarev.com/ghpvc/?username=izexleshJS&label=Toplam%20Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=FF0000" alt="izexleshJS" />
 
